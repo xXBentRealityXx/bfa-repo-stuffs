@@ -1,1 +1,0 @@
-Created version 1.0.0 of the BFA launcher
